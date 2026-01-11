@@ -1,6 +1,6 @@
 # 42_Piscine
 
-<img width="714" height="330" alt="image" src="https://github.com/user-attachments/assets/b512bf7b-4004-43b8-b513-df962264304b" />
+<img width="357" height="165" alt="image" src="https://github.com/user-attachments/assets/b512bf7b-4004-43b8-b513-df962264304b" />
 
 42 Piscine repo: Shell and C exercises focusing on C fundamentals, algorithms, memory, and modular programming from the 4-week bootcamp selection.
 

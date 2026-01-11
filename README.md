@@ -11,7 +11,7 @@ This Piscine aims to strengthen skills in C programming and command-line usage. 
 The project focuses on reimplementing and practicing C and shell fundamentals, from basic commands to advanced data structures.
 
 * Subject: subjects available in August 2025
-* Validation date: **August 2025** - 42 Vienna
+* Validation date: August 2025 - 42 Vienna
 
 ---
 

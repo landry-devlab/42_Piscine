@@ -59,11 +59,6 @@ shell00 – basic shell commands and navigation
 
 shell01 – file management and permissions
 
-shell02 – text manipulation (cat, grep, wc, etc.)
-
-shell03 – pipelines and redirections
-
-shell04 – environment variables and shell scripting
 
 ### C Programming:
 
@@ -107,15 +102,13 @@ This approach allows isolated validation and precise debugging of individual com
 The project was checked using the following tools:
 
 * **Minimoulinette**
-
-https://github.com/k11q/mini-moulinette
-
+  [https://github.com/42school/norminette](https://github.com/k11q/mini-moulinette)
 
 * **Norminette**
   [https://github.com/42school/norminette](https://github.com/42school/norminette)
 
 
-References and Resources
+### References and Resources
 Primary references used during development:
 
 Linux manual pages (man 3 <function>)
@@ -127,17 +120,3 @@ Peer reviews and collaborative debugging sessions
 These resources ensure correctness, expected behavior, and conformity with standard C specifications.
 
 ---
-
-## References and Resources
-
-Primary references used during development:
-
-* Linux manual pages (`man 3 <function>`)
-* *C Programming: A Modern Approach*
-  K. N. King
-* Peers
-
-These resources were used to ensure correctness, expected behavior, and conformity with standard C specifications.
-
----
-
